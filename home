@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grace Hollow, GA - Welcome</title>
+  <style>
+    body {
+      background-color: #fdf7f0;
+      font-family: "Georgia", serif;
+      color: #2f2f2f;
+      max-width: 1150px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+      display: flex;
+    }
+    header {
+      border-bottom: 3px double #7b5e57;
+      margin-bottom: 20px;
+    }
+    h1, h2 {
+      font-family: "Courier New", Courier, monospace;
+      color: #5e3c2c;
+    }
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      margin-top: 30px;
+      font-size: 24px;
+      border-bottom: 1px dashed #aaa;
+    }
+    .last-updated {
+      font-style: italic;
+      font-size: 14px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0;
+    }
+    table td {
+      padding: 8px;
+      border-bottom: 1px solid #ddd;
+    }
+    .quote {
+      background-color: #f4ede4;
+      padding: 10px 20px;
+      font-style: italic;
+      border-left: 4px solid #7b5e57;
+      margin: 20px 0;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 13px;
+      text-align: center;
+      color: #666;
+    }
+    .sidebar {
+      width: 300px;
+      margin-left: 40px;
+      font-size: 14px;
+      border-left: 2px solid #ccc;
+      padding-left: 20px;
+    }
+    .sidebar h3 {
+      font-family: "Courier New", Courier, monospace;
+      color: #5e3c2c;
+      font-size: 18px;
+      margin-top: 0;
+    }
+    .photo-placeholder {
+      background-color: #e5ded3;
+      border: 1px solid #aaa;
+      width: 100%;
+      height: 150px;
+      text-align: center;
+      line-height: 150px;
+      color: #5e3c2c;
+      margin-bottom: 15px;
+      transition: filter 0.3s ease-in-out;
+      overflow: hidden;
+    }
+    .photo-placeholder img {
+      max-height: 100%;
+      max-width: 100%;
+      vertical-align: middle;
+    }
+    .photo-placeholder:hover {
+      filter: sepia(60%);
+    }
+    .secret {
+      display: none;
+      margin-top: 20px;
+      background-color: #fff6e1;
+      padding: 10px;
+      border: 1px dashed #7b5e57;
+    }
+    .footer a {
+      color: #5e3c2c;
+      text-decoration: none;
+    }
+    .blink {
+      animation: blink-animation 1s steps(5, start) infinite;
+      -webkit-animation: blink-animation 1s steps(5, start) infinite;
+    }
+    @keyframes blink-animation {
+      to {
+        visibility: hidden;
+      }
+    }
+    .crow-gif {
+      width: 40px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Welcome to Grace Hollow, Georgia <img src="ChatGPT Image Jul 15, 2025, 09_53_01 PM.png" alt="Crow GIF" class="crow-gif"></h1>
+      <p class="last-updated">Last updated: August 19, 2002</p>
+      <p><em>Where the crows always know.</em></p>
+    </header>
+
+    <div class="photo-placeholder" title="Grainy photo of the town square">
+      <img src="ChatGPT Image Jul 15, 2025, 09_53_01 PM.png" alt="Crow GIF">
+    </div>
+
+    <h2>About Our Town</h2>
+    <p>Nestled in the heart of Ogeechee County, Georgia, Grace Hollow is a quiet Southern town founded in 1862 by Bartholomew Grace. Today, we’re best known for our long-standing traditions, front porch stories, and our most beloved resident: Miss Eleanor Grace.</p>
+
+    <h2>Quick Facts</h2>
+    <table>
+      <tr><td>County</td><td>Ogeechee County, GA</td></tr>
+      <tr><td>Zip Code</td><td>30479</td></tr>
+      <tr><td>Population</td><td>~187 (2020 est.)</td></tr>
+      <tr><td>Time Zone</td><td>EST</td></tr>
+      <tr><td>Nearest City</td><td>Savannah, GA (1 hr 40 min)</td></tr>
+    </table>
+
+    <h2>Points of Interest</h2>
+    <ul>
+      <li><strong>Grace & Sons General Store:</strong> Run by Tom Grace. Ask him about the vault—he won't answer.</li>
+      <li><strong>Nothing But Crumbs Diner:</strong> Best pie in Ogeechee County...or at least, the billboard claims this.</li>
+      <li><strong>Ebenezer Welcome Church:</strong> Hasn't had a pastor, or denomination, for years now.</li>
+      <li><strong>Blueberry Hill B&B:</strong> Enjoy our 2 guest rooms! But don't ask about the other 4.</li>
+      <li><strong>Grace Hollow Swamp:</strong> Do not enter alone.</li>
+    </ul>
+
+    <div class="photo-placeholder" title="Old church and swamp path">
+      <img src="ChatGPT Image Jul 13, 2025, 09_57_43 PM.png" alt="Old Church and Swamp Path">
+    </div>
+
+    <h2>Town Events</h2>
+    <ul>
+      <li><strong>Night of the Whispers</strong> – March 15: Reenactment of Eleanor’s first vision.</li>
+      <li><strong>Train Whistle Poetry Night</strong> – March 11, Midnight: A lucky townsperson reads a poetry over the noise of the midnight train, the Crescent.</li>
+      <li><strong>Eleanor’s Gala</strong> – April 1: Eleanor's 73 birthday is no joke! Community potluck.</li>
+    </ul>
+
+    <h2>Town Lore</h2>
+    <div class="quote">
+      “If you hear the crows before the church bells, turn around.” – Unknown
+    </div>
+    <p>Crows have always been part of Grace Hollow, but it was Miss Eleanor Grace who first claimed to understand them. Since the 1950s, she’s made predictions that few can explain, and most choose not to question.</p>
+
+    <h2>Public Services</h2>
+    <ul>
+      <li>Post Office (Todd runs it—don’t rush him.)</li>
+      <li>Volunteer Fire Truck (in an old barn)</li>
+    </ul>
+
+    <h2>Contact Us</h2>
+    <p>We don’t use email. Please write to:</p>
+    <p>
+      Grace Hollow Community Board<br>
+      P.O. Box 9<br>
+      Grace Hollow, GA 30479
+    </p>
+
+    <div class="footer">
+      Visitor counter: <span class="blink">002938</span> | Best viewed in Internet Explorer 6.0<br>
+      <a href="#printable">Click here to download our printable brochure [PDF]</a><br>
+      <a href="#" onclick="document.querySelector('.secret').style.display='block'; return false;">Unlock secret message from the crows</a><br>
+      <a href="/under-construction.html">Under Construction Page</a>
+    </div>
+
+    <div class="secret">
+      <p><strong>Message:</strong> “The truth sleeps beneath the cedar tree. Ask no more than once.”</p>
+      <audio controls>
+        <source src="https://www.fesliyanstudios.com/play-mp3/387" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+  </main>
+
+  <aside class="sidebar">
+    <h3>📰 Local News (2002)</h3>
+    <ul>
+      <li>It's much too warm for February / it's much too warm for February / it's much too warm for February</li>
+      <li>Pie-Off results: 1st place—Faye Daniels (peach-pecan).</li>
+      <li>Mourning doves spotted early this year—omen?</li>
+    </ul>
+
+    <h3>🌤 Weather</h3>
+    <p><strong>Today:</strong> High 82°F, Low 65°F<br>
+    Humid with morning mist near the swamp.</p>
+
+    <h3>📸 Photo Gallery</h3>
+    <div class="photo-placeholder" title="Crumbs Diner Interior">
+      <img src="IMG_3774.jpg" alt="Crumbs Diner Interior">
+    </div>
+    <div class="photo-placeholder" title="General Store Front Porch">[General Store Front Porch]</div>
+  </aside>
+</body>
+</html>
