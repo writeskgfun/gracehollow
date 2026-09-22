@@ -118,8 +118,8 @@
 <body>
   <main>
     <header>
-      <h1>Welcome to Grace Hollow, Georgia <img src="ChatGPT Image Jul 15, 2025, 09_53_01 PM.png" alt="Crow GIF" class="crow-gif"></h1>
-      <p class="last-updated">Last updated: August 19, 2002</p>
+      <h1>Welcome to Grace Hollow, Georgia</h1>
+      <p class="last-updated">Last updated: February 1, 2008</p>
       <p><em>Where the crows always know.</em></p>
     </header>
 
@@ -141,11 +141,11 @@
 
     <h2>Points of Interest</h2>
     <ul>
-      <li><strong>Grace & Sons General Store:</strong> Run by Tom Grace. Ask him about the vault—he won't answer.</li>
-      <li><strong>Nothing But Crumbs Diner:</strong> Best pie in Ogeechee County...or at least, the billboard claims this.</li>
-      <li><strong>Ebenezer Welcome Church:</strong> Hasn't had a pastor, or denomination, for years now.</li>
-      <li><strong>Blueberry Hill B&B:</strong> Enjoy our 2 guest rooms! But don't ask about the other 4.</li>
-      <li><strong>Grace Hollow Swamp:</strong> Do not enter alone.</li>
+      <li><strong>Grace & Sons General Store:</strong> Run by Tom Grace. Home to an eclectic wall of taxidermy!</li>
+      <li><strong>Faye's Diner:</strong> Sheriff Abbott says you HAVE to try the cherry pie.</li>
+      <li><strong>Covenant Church:</strong> Reverend Truett Grace hasn't been consistently preaching since his wife came down with a mysterious illness.</li>
+      <li><strong>Fable Inn:</strong> Enjoy our 5 guest rooms! Room 1 hosts consultations with Eleanor Grace (inquire by calling the inn).</li>
+      <li><strong>Grace Hollow Swamp:</strong> Do not enter without Eleanor's permission.</li>
     </ul>
 
     <div class="photo-placeholder" title="Old church and swamp path">
@@ -156,7 +156,7 @@
     <ul>
       <li><strong>Night of the Whispers</strong> – March 15: Reenactment of Eleanor’s first vision.</li>
       <li><strong>Train Whistle Poetry Night</strong> – March 11, Midnight: A lucky townsperson reads a poetry over the noise of the midnight train, the Crescent.</li>
-      <li><strong>Eleanor’s Gala</strong> – April 1: Eleanor's 73 birthday is no joke! Community potluck.</li>
+      <li><strong>Eleanor’s Gala</strong> – April 1: Eleanor's 75th birthday is no joke! Community potluck.</li>
     </ul>
 
     <h2>Town Lore</h2>
@@ -167,7 +167,7 @@
 
     <h2>Public Services</h2>
     <ul>
-      <li>Post Office (Todd runs it—don’t rush him.)</li>
+      <li>Post Office (Run by Todd Covett)</li>
       <li>Volunteer Fire Truck (in an old barn)</li>
     </ul>
 
@@ -198,7 +198,7 @@
   <aside class="sidebar">
     <h3>📰 Local News (2002)</h3>
     <ul>
-      <li>It's much too warm for February / it's much too warm for February / it's much too warm for February</li>
+      <li>It's much too warm for March</li>
       <li>Pie-Off results: 1st place—Faye Daniels (peach-pecan).</li>
       <li>Mourning doves spotted early this year—omen?</li>
     </ul>
